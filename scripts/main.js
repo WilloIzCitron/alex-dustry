@@ -14,7 +14,7 @@ const unjownLaserCharge = new Effect(80, 100, e => {
   Fill.circle(e.x, e.y, e.fin() * 10);
 });
 
-UnitType.corvus.weapon.get(0).bullet.colors = [Color.valueOf("FFB35C"), Color.valueOf("ffddb8"), Color.white];
+UnitType.corvus.weapons.get(0).bullet.colors = [Color.valueOf("FFB35C"), Color.valueOf("ffddb8"), Color.white];
 UnitTypes.corvus.weapons.get(0).bullet.shootEffect = unjownLaserCharge;
 UnitTypes.corvus.weapons.get(0).bullet.lightColor = Color.valueOf("FFB35C");
 UnitTypes.corvus.weapons.get(0).bullet.lightningColor = Color.valueOf("FFB35C");
