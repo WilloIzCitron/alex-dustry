@@ -1,5 +1,5 @@
 const unjownLaserCharge = new Effect(80, 100, e => {
-  Draw.color(Color.valueOf("FFB35C");
+  Draw.color(Color.valueOf("FFB35C"));
   Lines.stroke(e.fin() * 2);
   Lines.circle(e.x, e.y, 4 + e.fout() * 100);
 
