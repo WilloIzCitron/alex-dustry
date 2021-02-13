@@ -6,6 +6,10 @@ groups:
     repository-owners:
     - WilloIzCitron
     - unjown
+
+per_author:
+    main-repo-owner:
+    - WilloIzCitron
     
 files:
   # Keys are glob expressions.
