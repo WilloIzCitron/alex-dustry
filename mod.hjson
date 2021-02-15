@@ -4,5 +4,5 @@ author: "WilloIzCitron and Alex Staffs"
 description: "Alex version of MEEPofFaith/anuke-approaching"
 minGameVersion: 123
 version: 1.1.0
-dependencies: ['ui-lib'],
+dependencies: ["ui-lib"],
 hidden: true
