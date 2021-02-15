@@ -2,3 +2,17 @@ reviewers:
   # The default reviewers
   defaults:
     - repository-owners
+groups:
+    repository-owners:
+    - WilloIzCitron
+    - unjown
+
+per_author:
+    main-repo-owner:
+    - WilloIzCitron
+    
+files:
+  # Keys are glob expressions.
+  # You can assign groups defined above as well as GitHub usernames.
+  '**':
+    - repository-owners # group
