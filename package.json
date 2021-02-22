@@ -2,9 +2,14 @@
   "name": "alex-dustry",
   "version": "1.0.0",
   "description": "do not to pepe",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/willoizcitron/alex-dustry"
   },
   "keywords": [
     "mindustry-mod"
