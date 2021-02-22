@@ -1,0 +1,19 @@
+{
+  "name": "alex-dustry",
+  "version": "1.0.0",
+  "description": "do not to pepe",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+    "mindustry-mod"
+  ],
+  "author": "WilloIzCitron"
+  "contributors": [
+    "unjown",
+    "alexpvpmindustry"
+  ],
+  "license": "MIT"
+}
