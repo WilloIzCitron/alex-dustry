@@ -1,4 +1,4 @@
-require("../scripts/effect")
-require("../scripts/ui")
+require("./effect")
+require("./ui")
 
 console.log("Modules Has been Loaded")
